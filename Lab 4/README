@@ -1,0 +1,5 @@
+1. download LAB4pre.tgz
+2. run   zcat LAB4pre.tgz | tar xvf -   to extract files.
+
+3. Run   mk    to generate t.bin and run it on ARM VM
+ 
